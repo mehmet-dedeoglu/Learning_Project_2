@@ -1,0 +1,4 @@
+Iterations;Accuracy(%);
+Communication Error-Free;Distributed Soln.(Avg. Power=10);Distributed Soln.(Avg. Power=1);Distributed Soln.(Avg. Power=0.1)
+import/data_folder_52/iterations.txt;import/data_folder_a2/iterations.txt;import/data_folder_23/iterations.txt;import/data_folder_33/iterations.txt
+import/data_folder_52/accuracy.txt;import/data_folder_a2/accuracy.txt;import/data_folder_23/accuracy.txt;import/data_folder_33/accuracy.txt

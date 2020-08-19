@@ -1,0 +1,14 @@
+name: name
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - tensorflow
+  - tensorflow-gpu
+  - pillow
+  - scikit-image
+  - cudatoolkit=10.0
+  - torchvision==0.4.0
+  - pytorch==1.2.0
+  - keras
+prefix: C:\Users\user\anaconda3\envs\name
